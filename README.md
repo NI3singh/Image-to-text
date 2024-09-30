@@ -1,4 +1,4 @@
-<h3><a href="">GImage to text Using GOT OCR2.0 adn easyocr</a></h3>
+<h3><a href="">Image to text Using GOT OCR2.0 and easyocr</a></h3>
 
 ## Install
 0. My Project is based on CPU
@@ -37,4 +37,5 @@ Upload Application Files
 Specify Ports (if needed)
 Build and Launch
 Get the Public URL
+
 
